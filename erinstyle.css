@@ -8,7 +8,7 @@
 body {
     padding: 0;
     margin:10;
-link {
+[id=dig] {
     font-size:26.2;
 }
 .tabs {
