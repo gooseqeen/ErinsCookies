@@ -8,7 +8,8 @@
 body {
     padding: 0;
     margin:10;
-    
+link {
+    font-size:26.2;
 }
 .tabs {
     display: flex;
